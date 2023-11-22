@@ -1,5 +1,5 @@
 //your code here
- /* const openModalButton = document.querySelector('#open-modal');
+  const openModalButton = document.querySelector('#open-modal');
 const modal = document.querySelector('#newton-modal');
 
 openModalButton.addEventListener('click', () => {
@@ -10,5 +10,5 @@ openModalButton.addEventListener('click', () => {
 
 closeModalButton.addEventListener('click', () => {
   modal.classList.remove('show');
-});  */
+});  
 
